@@ -35,7 +35,7 @@
                  "value":"main.json#startt2"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -53,7 +53,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -71,7 +71,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -105,6 +105,24 @@
                  "name":"exitSceneUrl",
                  "type":"string",
                  "value":"main.json#gang"
+                }],
+         "type":"tilelayer",
+         "visible":false,
+         "width":29,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":24,
+         "id":28,
+         "name":"jitsibar",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"hintermtresen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -125,7 +143,7 @@
                  "value":"https:\/\/soundcloud.com\/robkob-600e\/sets\/robbie-lee-kobbs"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -143,7 +161,7 @@
                  "value":"ZOOM0109.MP3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -161,7 +179,7 @@
                  "value":"inderhoele14"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -179,7 +197,7 @@
                  "value":"hinterderbuehne14"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -197,7 +215,7 @@
                  "value":"https:\/\/r7.whiteboardfox.com\/7264783-6472-1630"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -209,7 +227,7 @@
          "name":"boden1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -221,7 +239,7 @@
          "name":"bodenw\u00e4nde1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -233,7 +251,7 @@
          "name":"bodenw\u00e4nde2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -245,7 +263,7 @@
          "name":"m\u00f6bel1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -257,7 +275,7 @@
          "name":"m\u00f6bel2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -269,7 +287,7 @@
          "name":"m\u00f6bel3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -281,7 +299,7 @@
          "name":"inventar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -293,7 +311,7 @@
          "name":"inventar2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -305,7 +323,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -316,7 +334,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -328,7 +346,7 @@
          "name":"geheimraum",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -340,7 +358,7 @@
          "name":"geheimgang",
          "opacity":0.5,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -352,7 +370,7 @@
          "name":"geheimgang flur",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
@@ -364,12 +382,12 @@
          "name":"licht",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":29,
          "x":0,
          "y":0
         }],
- "nextlayerid":28,
+ "nextlayerid":29,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
