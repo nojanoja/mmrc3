@@ -53,7 +53,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -71,7 +71,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
                  "value":"https:\/\/urbanlives.it\/artisti\/alla-scoperta-delle-opere-di-tilf\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -197,7 +197,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -233,7 +233,7 @@
                  "value":"rh_rc3_1.json#starttur1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -251,7 +251,7 @@
                  "value":"https:\/\/menschmeier.berlin\/faq"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
