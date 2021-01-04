@@ -86,7 +86,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json#start_rhtur1"
+                 "value":"main.json#start_rht1"
                 }],
          "type":"tilelayer",
          "visible":true,
