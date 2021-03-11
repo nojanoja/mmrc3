@@ -338,7 +338,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"lands.mp3"
+                 "value":"Kotofreitag.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
